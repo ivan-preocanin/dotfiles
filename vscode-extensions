@@ -13,3 +13,6 @@ VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
 vuhrmeister.vscode-meteor
 xabikos.JavaScriptSnippets
+esbenp.prettier-vscode
+ms-azuretools.vscode-docker
+ms-vscode.vscode-typescript-tslint-plugin
